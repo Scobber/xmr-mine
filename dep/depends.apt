@@ -4,3 +4,4 @@ cmake
 automake
 libtool
 autoconf
+libhwloc-dev
