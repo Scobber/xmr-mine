@@ -1,0 +1,6 @@
+git
+build-essential
+cmake
+automake
+libtool
+autoconf
