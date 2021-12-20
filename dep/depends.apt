@@ -5,6 +5,4 @@ cmake
 automake
 libtool
 autoconf
-libhwloc-dev
-libuv-dev
-libssl-dev
+wget
