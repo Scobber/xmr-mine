@@ -8,4 +8,4 @@ chmod +x build.hwloc.sh
 chmod +x build.openssl.sh
 bash ./build_deps.sh && cd ../build
 cmake .. -DXMRIG_DEPS=scripts/deps
-#make -j$(nproc)
+make -j$(nproc)

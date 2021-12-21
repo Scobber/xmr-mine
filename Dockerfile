@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:focal
 VOLUME /srv /opt /scratch /var/lib/apt/lists
 RUN mkdir -p /dep
 COPY /dep /dep
