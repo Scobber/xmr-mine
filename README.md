@@ -1,4 +1,6 @@
 # xmr-miner
 Simple docker based XMR miner,
-'''MONADDR''' Monero payout address
+Environment Variable
+```MONADDR``` Monero Payout Address
+
 Uses support monero pool
