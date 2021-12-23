@@ -2,6 +2,7 @@
 Simple docker based XMR miner,
 Environment Variable
 ```MONADDR``` Monero Payout Address
+```POOLURL``` Pool URL
 
 Uses support monero pool
 
